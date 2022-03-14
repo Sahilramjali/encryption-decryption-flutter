@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project encrypt and decrypt the files using AES 256 cbc mode.It has two features i.e encryption /decryption and transfer encrypted file using the chat. login is done with the help of firebase authentication package. This project was done by three members.
+This project encrypt and decrypt the files using AES 256 cbc mode.It has two features i.e encryption /decryption and transfer encrypted file using the chat.  This project was done by three members.We had used three features of firebase ie. firebase authentication,cloud firestore and storage. login is done with the help of firebase authentication package. This project was done by three members.Here in this project  cloud firestore is used  to store chat along with storage feature of firebase to store the files send between two clients.
 Some UI of this project
 
 ![encryptionpage](https://user-images.githubusercontent.com/35887583/158056202-41316662-e56d-46e9-9ece-28598bc1c391.jpg)
